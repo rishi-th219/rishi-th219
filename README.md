@@ -3,7 +3,9 @@
 # Rishi Thakur
 ### Analytics Engineer & Data Storyteller
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-rishi--th219.github.io%2Fportfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/)
+[![Analytics Cockpit](https://img.shields.io/badge/Analytics_Cockpit-Live_Portfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#overview)
+[![Live SQL Sandbox](https://img.shields.io/badge/Run_Live_SQL-Sandbox_Engine-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#sandbox)
+[![CHiPS Workbench](https://img.shields.io/badge/Case_Study-Split--Screen_Workbench-22c55e?style=for-the-badge&logo=databricks&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#workbench)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Thakur-080c14?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=080c14)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
 [![Email](https://img.shields.io/badge/Email-rishi__th219%40proton.me-080c14?style=for-the-badge&logo=protonmail&logoColor=3b82f6&labelColor=080c14)](mailto:rishi_th219@proton.me)
 
@@ -23,6 +25,20 @@
 
 ---
 
+### 🎛️ Interactive Portfolio Cockpit
+
+Rather than a static one-page scroll, explore my portfolio through dedicated interactive views:
+
+| Cockpit View | Focus Area | Live Interactive Experience |
+|:---|:---|:---:|
+| 🚀 **[Mission Control](https://rishi-th219.github.io/portfolio/#overview)** | Executive telemetry, verified metrics, core philosophy | [Launch →](https://rishi-th219.github.io/portfolio/#overview) |
+| 🔬 **[Split-Screen Workbench](https://rishi-th219.github.io/portfolio/#workbench)** | CHiPS enterprise healthcare attendance & payroll intelligence | [Inspect →](https://rishi-th219.github.io/portfolio/#workbench) |
+| ⚡ **[Live SQL Sandbox](https://rishi-th219.github.io/portfolio/#sandbox)** | Client-side SQL console executing queries against my live data schema | [Query Now →](https://rishi-th219.github.io/portfolio/#sandbox) |
+| 📦 **[Engineering Lab](https://rishi-th219.github.io/portfolio/#projects)** | 5G Diffusion models, local dbt/Airflow ELT, and ATS automation | [Explore →](https://rishi-th219.github.io/portfolio/#projects) |
+| 📄 **[ATS Resume Studio](https://rishi-th219.github.io/portfolio/#resume)** | Verified academic credentials, IIIT Naya Raipur CGPA 7.90 & PDF previews | [Preview →](https://rishi-th219.github.io/portfolio/#resume) |
+
+---
+
 ### 🏛️ Production Case Study (Flagship Enterprise Experience)
 
 #### **Statewide Healthcare Attendance & Payroll Intelligence**
@@ -35,7 +51,7 @@
   - Formulated advanced **DAX measures** and a **3-tier attendance risk model** (High Risk Defaulter $\ge$ 3 consecutive unexcused absences).
   - Designed interactive executive **Power BI cockpits** with 4-level drill-downs (Statewide $\to$ District $\to$ Facility $\to$ Role) for the Health Department Secretary.
 * **Impact:** Eliminated operational blind spots for state executive leadership and ensured 100% synchronized reporting coverage across district hospitals and community health centers.
-* 🔗 [Explore Full Interactive Case Study on my Portfolio →](https://rishi-th219.github.io/portfolio/#story)
+* 🔗 **[Inspect in the Interactive Split-Screen Workbench →](https://rishi-th219.github.io/portfolio/#workbench)**
 
 ---
 
@@ -57,6 +73,8 @@
 | **Business Intelligence** | `Power BI Desktop` · `DAX Measures` · `Power Query (M)` · `Tableau` · `Advanced Excel` |
 | **Pipeline & Scripting** | `Python 3.11+` · `Pandas` · `NumPy` · `Scikit-learn` · `OpenXML` · `Async APIs` |
 | **Systems & Diagnostics** | `Fedora Linux (Daily Driver & Bash)` · `Windows 11 (PowerShell & Diagnostics)` · `Git` |
+
+> ⚡ **Test live queries against this schema:** You can run real SQL queries against my skill matrix, CHiPS data pipeline, and credentials in the **[Live SQL Sandbox](https://rishi-th219.github.io/portfolio/#sandbox)**.
 
 ---
 
@@ -92,6 +110,6 @@
 <br/><br/>
 
 [![Get in Touch](https://img.shields.io/badge/Get_In_Touch-Connect_on_LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=f8fafc&labelColor=080c14)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
-[![View Resumes](https://img.shields.io/badge/ATS_Resumes-Preview_on_Portfolio-080c14?style=for-the-badge&logo=googledocs&logoColor=3b82f6&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#credentials)
+[![ATS Resumes](https://img.shields.io/badge/ATS_Resumes-Preview_on_Portfolio-080c14?style=for-the-badge&logo=googledocs&logoColor=3b82f6&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#resume)
 
 </div>
