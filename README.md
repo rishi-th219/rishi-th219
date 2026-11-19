@@ -3,9 +3,9 @@
 # Rishi Thakur
 ### Analytics Engineer & Data Storyteller
 
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-rishi--th219.github.io%2Fportfolio-f06d4c?style=for-the-badge&logo=googlechrome&logoColor=f6f1e9&labelColor=09111f)](https://rishi-th219.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Thakur-09111f?style=for-the-badge&logo=linkedin&logoColor=f06d4c&labelColor=09111f)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
-[![Email](https://img.shields.io/badge/Email-rishi__th219%40proton.me-09111f?style=for-the-badge&logo=protonmail&logoColor=f06d4c&labelColor=09111f)](mailto:rishi_th219@proton.me)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-rishi--th219.github.io%2Fportfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Thakur-080c14?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=080c14)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
+[![Email](https://img.shields.io/badge/Email-rishi__th219%40proton.me-080c14?style=for-the-badge&logo=protonmail&logoColor=3b82f6&labelColor=080c14)](mailto:rishi_th219@proton.me)
 
 <br/>
 
@@ -14,10 +14,10 @@
 
 <br/>
 
-[![Status](https://img.shields.io/badge/Status-Available_for_Immediate_Hire-22c55e?style=flat-square&labelColor=09111f)]()
-[![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-f6f1e9?style=flat-square&labelColor=09111f)]()
-[![GATE CS](https://img.shields.io/badge/GATE_CS_2024-Qualified-f06d4c?style=flat-square&labelColor=09111f)]()
-[![IELTS](https://img.shields.io/badge/IELTS_Academic-Band_7.5_(C1)-f06d4c?style=flat-square&labelColor=09111f)]()
+[![Status](https://img.shields.io/badge/Status-Available_for_Immediate_Hire-22c55e?style=flat-square&labelColor=080c14)]()
+[![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-f8fafc?style=flat-square&labelColor=080c14)]()
+[![GATE CS](https://img.shields.io/badge/GATE_CS_2024-Qualified-3b82f6?style=flat-square&labelColor=080c14)]()
+[![IELTS](https://img.shields.io/badge/IELTS_Academic-Band_7.5_(C1)-0ea5e9?style=flat-square&labelColor=080c14)]()
 
 </div>
 
@@ -86,12 +86,12 @@
 
 ### 📊 Telemetry & Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=rishi-th219&show_icons=true&bg_color=09111f&title_color=f6f1e9&text_color=9aaec7&icon_color=f06d4c&border_color=273750&hide_border=false" alt="Rishi's GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-th219&layout=compact&bg_color=09111f&title_color=f6f1e9&text_color=9aaec7&border_color=273750&hide_border=false" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishi-th219&show_icons=true&bg_color=080c14&title_color=f8fafc&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&hide_border=false" alt="Rishi's GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-th219&layout=compact&bg_color=080c14&title_color=f8fafc&text_color=94a3b8&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
 
 <br/><br/>
 
-[![Get in Touch](https://img.shields.io/badge/Get_In_Touch-Connect_on_LinkedIn-f06d4c?style=for-the-badge&logo=linkedin&logoColor=f6f1e9&labelColor=09111f)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
-[![View Resumes](https://img.shields.io/badge/ATS_Resumes-Preview_on_Portfolio-09111f?style=for-the-badge&logo=googledocs&logoColor=f06d4c&labelColor=09111f)](https://rishi-th219.github.io/portfolio/#credentials)
+[![Get in Touch](https://img.shields.io/badge/Get_In_Touch-Connect_on_LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=f8fafc&labelColor=080c14)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
+[![View Resumes](https://img.shields.io/badge/ATS_Resumes-Preview_on_Portfolio-080c14?style=for-the-badge&logo=googledocs&logoColor=3b82f6&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#credentials)
 
 </div>
