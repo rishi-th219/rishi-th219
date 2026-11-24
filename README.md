@@ -18,6 +18,7 @@
 
 [![Status](https://img.shields.io/badge/Status-Available_for_Immediate_Hire-22c55e?style=flat-square&labelColor=080c14)]()
 [![Location](https://img.shields.io/badge/Location-Bengaluru%2C_India-f8fafc?style=flat-square&labelColor=080c14)]()
+[![Current Focus](https://img.shields.io/badge/Current_Focus-AWS_Cloud_%26_Data_Engineering-0ea5e9?style=flat-square&labelColor=080c14)]()
 [![GATE CS](https://img.shields.io/badge/GATE_CS_2024-Qualified-3b82f6?style=flat-square&labelColor=080c14)]()
 [![IELTS](https://img.shields.io/badge/IELTS_Academic-Band_7.5_(C1)-0ea5e9?style=flat-square&labelColor=080c14)]()
 
@@ -71,6 +72,7 @@ Rather than a static one-page scroll, explore my portfolio through dedicated int
 |---|---|
 | **SQL & Data Modeling** | `PostgreSQL` · `MySQL` · `MariaDB` · `Kimball Star Schema` · `CTEs` · `Window Functions` |
 | **Business Intelligence** | `Power BI Desktop` · `DAX Measures` · `Power Query (M)` · `Tableau` · `Advanced Excel` |
+| **Cloud Data Engineering (In Progress)** | `AWS (S3, Athena, Glue, Redshift)` · Target: `CLF-C02` & `DEA-C01` |
 | **Pipeline & Scripting** | `Python 3.11+` · `Pandas` · `NumPy` · `Scikit-learn` · `OpenXML` · `Async APIs` |
 | **Systems & Diagnostics** | `Fedora Linux (Daily Driver & Bash)` · `Windows 11 (PowerShell & Diagnostics)` · `Git` |
 
@@ -97,6 +99,7 @@ Rather than a static one-page scroll, explore my portfolio through dedicated int
 * **B.Tech in Computer Science & Engineering** — *Amity University Chhattisgarh (2020–2024)* | **CGPA: 7.71**
 * **GATE CS 2024:** Qualified national benchmark in Computer Science & Information Technology.
 * **IELTS Academic:** Band 7.5 Overall (CEFR C1 Proficient User).
+* **Target AWS Accreditations:** Actively preparing for **AWS Certified Cloud Practitioner** & **AWS Certified Data Engineer - Associate (DEA-C01)**.
 
 ---
 
