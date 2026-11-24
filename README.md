@@ -4,7 +4,6 @@
 ### Analytics Engineer & Data Storyteller
 
 [![Analytics Cockpit](https://img.shields.io/badge/Analytics_Cockpit-Live_Portfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#overview)
-[![3D Spatial Well](https://img.shields.io/badge/Three.js_Scene-The_Spatial_Well-0ea5e9?style=for-the-badge&logo=three.js&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/well.html)
 [![Live SQL Sandbox](https://img.shields.io/badge/Run_Live_SQL-Sandbox_Engine-0ea5e9?style=for-the-badge&logo=postgresql&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#sandbox)
 [![CHiPS Workbench](https://img.shields.io/badge/Case_Study-Split--Screen_Workbench-22c55e?style=for-the-badge&logo=databricks&logoColor=f8fafc&labelColor=080c14)](https://rishi-th219.github.io/portfolio/#workbench)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi_Thakur-080c14?style=for-the-badge&logo=linkedin&logoColor=3b82f6&labelColor=080c14)](https://www.linkedin.com/in/rishi-thakur-b665a4298/)
@@ -38,7 +37,6 @@ Rather than a static one-page scroll, explore my portfolio through dedicated int
 | ⚡ **[Live SQL Sandbox](https://rishi-th219.github.io/portfolio/#sandbox)** | Client-side SQL console executing queries against my live data schema | [Query Now →](https://rishi-th219.github.io/portfolio/#sandbox) |
 | 📦 **[Engineering Lab](https://rishi-th219.github.io/portfolio/#projects)** | 5G Diffusion models, local dbt/Airflow ELT, and ATS automation | [Explore →](https://rishi-th219.github.io/portfolio/#projects) |
 | 📄 **[ATS Resume Studio](https://rishi-th219.github.io/portfolio/#resume)** | Verified academic credentials, IIIT Naya Raipur CGPA 7.90 & PDF previews | [Preview →](https://rishi-th219.github.io/portfolio/#resume) |
-| 🌌 **[The Spatial Well](https://rishi-th219.github.io/portfolio/well.html)** | Scroll-driven Three.js abyss with synthesized Web Audio & curved screens | [Enter the Well →](https://rishi-th219.github.io/portfolio/well.html) |
 
 ---
 
