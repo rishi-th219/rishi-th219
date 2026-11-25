@@ -96,7 +96,7 @@ Rather than a static one-page scroll, explore my portfolio through dedicated int
 ### 🎓 Academic Rigor & Verified Credentials
 
 * **M.Tech in Computer Science & Engineering** — *IIIT Naya Raipur (2024–2026)* | **CGPA: 7.90**
-* **B.Tech in Computer Science & Engineering** — *Amity University Chhattisgarh (2020–2024)* | **CGPA: 7.71**
+* **B.Tech in Computer Science & Engineering** — *Amity University Chhattisgarh (2019–2023)* | **CGPA: 7.71**
 * **GATE CS 2024:** Qualified national benchmark in Computer Science & Information Technology.
 * **IELTS Academic:** Band 7.5 Overall (CEFR C1 Proficient User).
 * **Target AWS Accreditations:** Actively preparing for **AWS Certified Cloud Practitioner** & **AWS Certified Data Engineer - Associate (DEA-C01)**.
